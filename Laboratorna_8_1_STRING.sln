@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_8_1_STRING", "Laboratorna_8_1_STRING\Laboratorna_8_1_STRING.csproj", "{72438197-A80B-4FF3-9A42-7555E60FBC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_8_1_STRING.Tests", "Laboratorna_8_1_STRING.Tests\Laboratorna_8_1_STRING.Tests.csproj", "{E417E18A-9369-465E-BEF6-11A10676085F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72438197-A80B-4FF3-9A42-7555E60FBC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72438197-A80B-4FF3-9A42-7555E60FBC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72438197-A80B-4FF3-9A42-7555E60FBC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72438197-A80B-4FF3-9A42-7555E60FBC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E417E18A-9369-465E-BEF6-11A10676085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E417E18A-9369-465E-BEF6-11A10676085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E417E18A-9369-465E-BEF6-11A10676085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E417E18A-9369-465E-BEF6-11A10676085F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
